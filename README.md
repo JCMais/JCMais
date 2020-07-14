@@ -17,4 +17,4 @@
 
 🙋‍♂️ Pronouns: _He_/_Him_
 
-⚡ Fun Fact: I've an Accounting degree, but I never worked as an accountant.
+⚡ Fun Fact: I've a Bachelor's Degree in Accounting, but I never worked as an Accountant.
