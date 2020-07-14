@@ -11,6 +11,8 @@
 
 🕹 Playing video games since I was kid, favorites genres are: (J)RPGs, Turn-Based, Survival, Sci-fi and Roguelike
 
+👨‍🏭 Currently working on my own blog - Stay tuned
+
 🌐 You can also find me at:
   - [twitter](https://twitter.com/_jonathancardos)
   - [linkedin](https://www.linkedin.com/in/jonathancardoso/)
