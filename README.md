@@ -3,7 +3,7 @@
 
 🗨 My name is Jonathan Cardoso, I'm Full-Stack Developer since 2011, currently living in Brazil and working remotely at HelloMD, a company based in California / USA.
 
-👨‍💻 My favorites languages, tech and libraries are: Typescript, Node.js, GraphQL, Typescript, React and did I say that I love Typescript?
+👨‍💻 My favorites languages, tech and libraries are: TypeScript, Node.js, GraphQL, TypeScript, React and did I say that I love TypeScript?
 
 ⚙ If given the opportunity, I seek to be [one of] the DevOps person - I have experience with most CI platforms, deployments tools, and cloud providers - Currently using Terraform and Kubernetes on GCP.
 
