@@ -13,6 +13,8 @@
 
 ✍ [Blog](https://jonathancardoso.com/)
 
+🤩 Perfect job would be 50% Backend, 30% DevOps, and 20% Front
+
 🌐 You can also find me at:
   - [twitter](https://twitter.com/_jonathancardos)
   - [linkedin](https://www.linkedin.com/in/jonathancardoso/)
