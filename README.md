@@ -21,6 +21,20 @@
 
 🙋‍♂️ Pronouns: _He_/_Him_
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jonathancardoso" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="60px" width="217px" />
+  </a>
+  <br />
+  <a href="https://www.patreon.com/bePatron?u=19985213" data-patreon-widget-type="become-patron-button" title="Become a Patreon">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="190" alt="Patreon Logo">
+  </a>
+  <br />
+  <a href="https://discord.io/jonathancardoso" title="Join our Discord Server">
+    <img src="https://i.imgur.com/DlKeNmn.png" alt="Discord Logo" width="190" />
+  </a>
+</p>
+
 ⚡ Fun Fact: I've a Bachelor's Degree in Accounting, but I never worked as an Accountant.
 
 <p align="center">🎶 🎶 🎶<br /><a href="https://github.com/JCMais/spotify-svg-currently-playing" title="Pretty cool huh? Click for source-code"><img src="https://spotify-currently-playing.netlify.app/.netlify/functions/handler" /></a></p>
