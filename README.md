@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/DkqE6y7.png" /></p>
 
 
-🗨 My name is Jonathan Cardoso, I'm a Full-Stack Developer since 2011, currently living in Curitiba, PR - Brazil and working remotely at Croz, an IT consulting firm based in Austin, TX - United States.
+🗨 My name is Jonathan Cardoso, I'm a Full-Stack Developer since 2011, currently living in Curitiba, PR - Brazil and working remotely at Croz, an IT consulting firm based in Austin, TX - United States. We are currently working automating processes at a leading company in the metal industry.
 
 👨‍💻 My favorites languages, tech and libraries are: TypeScript, Node.js, GraphQL, TypeScript, React and did I say that I love TypeScript?
 
