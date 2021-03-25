@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/DkqE6y7.png" /></p>
 
 
-🗨 My name is Jonathan Cardoso, I'm Full-Stack Developer since 2011, currently living in Brazil and working remotely at HelloMD, a company based in California / USA.
+🗨 My name is Jonathan Cardoso, I'm a Full-Stack Developer since 2011, currently living in Curitiba, PR - Brazil and working remotely at Croz, an IT consulting firm based in Austin, TX - United States.
 
 👨‍💻 My favorites languages, tech and libraries are: TypeScript, Node.js, GraphQL, TypeScript, React and did I say that I love TypeScript?
 
@@ -15,7 +15,7 @@
 
 🤩 Perfect job would be 60% Backend, 25% DevOps, and 15% Frontend
 
-🌐 You can also find me at:
+🌐 You can also find me on:
   - [twitter](https://twitter.com/_jonathancardos)
   - [linkedin](https://www.linkedin.com/in/jonathancardoso/)
 
