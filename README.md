@@ -7,7 +7,7 @@
 
 ⚙ If given the opportunity, I seek to be [one of] the DevOps person - I have experience with most CI platforms, deployments tools, and cloud providers - Currently using Terraform and Kubernetes on GCP.
 
-📚 [Learning Elixir](https://github.com/JCMais/learning/tree/master/elixir) and loving it ❤
+📚 [Learning Elixir](https://github.com/JCMais/learning/tree/master/elixir) and game development using the Unity Editor - Loving both ❤
 
 🕹 Playing video games since I was kid, favorites genres are: (J)RPGs, Turn-Based, Survival, Sci-fi and Roguelike
 
