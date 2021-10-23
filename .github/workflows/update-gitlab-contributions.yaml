@@ -28,7 +28,6 @@ jobs:
 
       - name: Retrieve latest SVG
         run: |
-          ls -al /opt/playwright-browsers/
           yarn install
           node scripts/ci/update-gitlab-contributions.js
 
