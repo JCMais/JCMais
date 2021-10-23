@@ -32,15 +32,15 @@ jobs:
           ls -al
           git status
 
-      # - name: Check for modified files
-      #   id: git-check
-      #   run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
 
-      # - name: Update changes in GitHub repository
-      #   if: steps.git-check.outputs.modified == 'true'
-      #   run: |
-      #     git config --global user.name 'Jonathan Cardoso'
-      #     git config --global user.email 'me@jonathancardoso.com'
-      #     git add -A
-      #     git commit -m 'add updated svg with gitlab contributions [skip ci]'
-      #     git push
+      - name: Update changes in GitHub repository
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+          git config --global user.name 'Jonathan Cardoso'
+          git config --global user.email 'me@jonathancardoso.com'
+          git add -A
+          git commit -m 'add updated svg with gitlab contributions [skip ci]'
+          git push
