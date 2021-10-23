@@ -1,6 +1,11 @@
 name: Update gitlab contributions
+
 on:
+  schedule:
+    - cron: '2 * * * *'
   push:
+    paths-ignore:
+      - 'README.md'
 
 jobs:
   update-gitlab-contributions-svg:
