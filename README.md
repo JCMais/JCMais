@@ -39,3 +39,8 @@
 ⚡ Fun Fact: I've a Bachelor's Degree in Accounting, but I never worked as an Accountant.
 
 <p align="center">🎶 🎶 🎶<br /><a href="https://github.com/JCMais/spotify-svg-currently-playing" title="Pretty cool huh? Click for source-code"><img src="https://spotify-currently-playing.netlify.app/.netlify/functions/handler" /></a></p>
+
+
+### GitLab Contributions
+
+<p align="center"><img src="./public/gitlab-contributions.svg"></p>
