@@ -24,7 +24,7 @@ jobs:
 
       - name: Retrieve latest SVG
         run: |
-          yarn install
+          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true yarn install
           node scripts/ci/update-gitlab-contributions.js
           ls -al
           git status
